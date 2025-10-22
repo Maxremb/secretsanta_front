@@ -1,0 +1,16 @@
+.footer-bg {
+    background-color:#339966 ;
+    height:10%;
+    width:100%
+}
+
+.reference{
+    text-align: left;
+    font-style: bold;
+}
+
+.contact{
+    text-align:right;
+    font-style: bold;
+    
+}

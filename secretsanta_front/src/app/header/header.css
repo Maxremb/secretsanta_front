@@ -1,0 +1,11 @@
+.header-bg {
+    background-color:#339966 ;
+    height:10%;
+    width:100%
+}
+
+.header-title{
+    text-align:center;
+    color:#990000;
+    font-family: "Mountains of Christmas", serif;
+}
